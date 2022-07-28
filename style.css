@@ -1,0 +1,125 @@
+
+.list {
+    font-family: "Orbitron";
+    font-size: 20px;
+    font-weight: bold;
+    list-style: none;
+    overflow: hidden;
+    display: flex;
+    gap: 50px;
+    margin-left: 400px;
+  }
+
+.navbar-container{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+
+.button-group{
+    display: flex;
+    align-items: right ;
+  }
+
+.button-group{
+  align-items: center;
+  margin-left: 30px;
+  
+}
+
+.nav-button{
+  width: 200px;
+  height: 60px;
+  background-color: white;
+  border-color: black;
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: Poppins;
+  padding: 8px 10px;
+  margin-left: 20px;
+  }
+
+  .search-icon{
+    margin-left: 350px;
+  }
+/* ===================================================== */
+
+img[src="/assets/Image.png"]{
+  position: absolute;
+  top: 180px;
+  margin-left: 50px;
+  margin-top: 50px;  
+  z-index: 2;
+}
+
+  .square{
+    position: absolute;
+    top: 550px;
+    left: 250px;
+    width: 650px;
+    z-index: 1;
+  } 
+
+  .star{
+    position: relative;
+    left: 1680px;  
+    top: 100px;
+  }
+
+  .globe{
+    position: absolute;
+    left: 1000px; 
+    top: 180px;
+  }
+
+  .hero-container-right{
+    position: absolute;
+    top: 280px;
+    left: 700px;
+    text-align-last: center;
+    word-wrap: break-word ;
+  }
+
+  .hero-heading{
+    font-family: Orbitron;
+    font-size: 70px;
+  }
+
+  .hero-description{
+    padding-left: 100px;
+    padding-bottom: 100px;
+    width: 800px;
+    margin: 10px 0;
+    font-size: 18px;
+    text-align: center;
+    font-family: Poppins;
+
+  }
+  
+  .button-email, .button-join{
+    width:fit-content
+    height: 40px;
+    background-color: white;
+    border-color: black;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Orbitron;
+    padding: 8px 10px;
+    margin-left: 20px;
+ }
+
+ .button-email:hover, .button-join:hover {
+  background-color: black;
+  color: azure;  
+ }
+
+ .contact-heading{
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: Poppins;  
+ }
+
+ .icons{
+  word-spacing: 20px;
+ }
