@@ -92,18 +92,18 @@ img[src="/assets/Image.png"]{
     margin: 10px 0;
     font-size: 18px;
     text-align: center;
-    font-family: Poppins;
+    font-family: "Poppins";
 
   }
   
   .button-email, .button-join{
-    width:fit-content
+    width:fit-content;
     height: 40px;
     background-color: white;
     border-color: black;
     border-radius: 10px;
     font-size: 25px;
-    font-family: Orbitron;
+    font-family: "Orbitron";
     padding: 8px 10px;
     margin-left: 20px;
  }
@@ -117,7 +117,7 @@ img[src="/assets/Image.png"]{
   padding-top: 40px;
   font-size: 25px;
   font-weight: 500;
-  font-family: Poppins;  
+  font-family: "Poppins";  
  }
 
  .icons{
