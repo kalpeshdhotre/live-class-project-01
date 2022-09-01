@@ -15,7 +15,7 @@ First project of this course. It was very confising with item placement and thei
 > ## Time to complete this project 
 > # <font color="Yellow">**2 days**</font>
 
-### [🌏 Deployed link]("https://kd-project-01.netlify.app/")
+### [🌏 Deployed link](https://kd-project-01.netlify.app/)
 <br>
 
 ## Below is screenshot of webpage 
